@@ -1,0 +1,24 @@
+#Listed below in each row and in order are the dates, times, and losses recorded from the Roulette table
+
+0310_win_loss_player_data:05:00:00 AM -$82,348
+0310_win_loss_player_data:08:00:00 AM -$97,383
+0310_win_loss_player_data:02:00:00 PM -$82,348
+0310_win_loss_player_data:08:00:00 PM -$65,348
+0310_win_loss_player_data:11:00:00 PM -$88,383
+0312_win_loss_player_data:05:00:00 AM -$182,300
+0312_win_loss_player_data:08:00:00 AM -$97,383
+0312_win_loss_player_data:02:00:00 PM -$82,348
+0312_win_loss_player_data:08:00:00 PM -$65,792
+0312_win_loss_player_data:11:00:00 PM -$88,229
+0315_win_loss_player_data:05:00:00 AM -$82,844
+0315_win_loss_player_data:08:00:00 AM -$97,001
+0315_win_loss_player_data:02:00:00 PM -$182,419
+   
+
+#Listed below are the first and last names of the only player that was present during each of the days when losses were taken
+#Listed before the last and first name is the number of occurences these names appear during March 10, 12 and 15 
+
+#Last Name
+13 Schmidt 
+#First Name
+13 Mylie
